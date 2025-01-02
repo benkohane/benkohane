@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Ben</h1>
 <h3 align="center">Learning to transform my ideas into functional code, one line at a time.</h3>
 
-- 🌱 I’m currently learning **more about Python and Generative AI**
+- 🌱 I’m currently thinking about incorporating LLMs into my coding projects!
+- 🎧 I'm always looking for new podcasts to listen to - reach out with suggestions!
+- 🤖🪙 I'm looking to learn more about exciting tech trends like AI and crypto!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
